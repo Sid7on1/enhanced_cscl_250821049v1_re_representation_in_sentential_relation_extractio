@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.CL_2508.21049v1_Re_Representation_in_Sentential_Relation_Extractio",
+  "project_type": "nlp",
+  "completion_time": "2025-08-29T20:57:47.488736",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.CL_2508.21049v1_Re_Representation_in_Sentential_Relation_Extractio"
+}
